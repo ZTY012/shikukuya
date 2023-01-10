@@ -1,1 +1,1 @@
-![](https://readme-typing-svg.demolab.com/?lines=12345;33333)
+![](https://readme-typing-svg.demolab.com/?lines=print("Hello world"))
