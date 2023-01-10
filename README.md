@@ -4,5 +4,5 @@
   <br>
   <img src="https://stats.justsong.cn/api/bilibili/?id=1756426840&theme=dark">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=shikukuya">
+  <img src="https://github-readme-stats.vercel.app/api?username=shikukuya&show_icons=true&theme=dark">
 </div>
